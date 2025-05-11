@@ -25,7 +25,7 @@ const useVerificationScreenStyles = () => {
       textShadowColor: 'rgba(25, 0, 255, 0.52)',
       textShadowOffset: { width: 2, height: 1 },
       textShadowRadius: 2,
-      fontFamily: 'fantasy',
+      fontFamily: 'OpenSans-VariableFont_wdth,wght',
     },
     input: {
       height: moderateScale(50),

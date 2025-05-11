@@ -25,7 +25,7 @@ const useLoginScreenStyles = () => {
       textShadowColor: 'rgba(25, 0, 255, 0.52)',
       textShadowOffset: { width: 2, height: 1 },
       textShadowRadius: 2,
-      fontFamily: 'Goudy Bookletter 1911, sans-serif',
+      fontFamily: 'PlaywriteDKLoopet-Regular',
     },
     inputContainer: {
       flexDirection: 'row',

@@ -30,6 +30,7 @@ const useProductDetailsScreenStyles = () => {
       fontWeight: 'bold',
       marginBottom: moderateScale(8),
       color: theme.textColor,
+      fontFamily:'CoralPixels-Regular',
     },
     description: {
       fontSize: moderateScale(14),

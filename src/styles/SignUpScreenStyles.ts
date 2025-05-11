@@ -25,7 +25,7 @@ const useSignUpScreenStyles = () => {
       textShadowColor: 'rgba(25, 0, 255, 0.52)',
       textShadowOffset: { width: 2, height: 1 },
       textShadowRadius: 2,
-      fontFamily: 'Gill Sans Extrabold, sans-serif',
+      fontFamily: 'Playwrite DK Loopet Thin',
     },
     input: {
       height: moderateScale(50),
